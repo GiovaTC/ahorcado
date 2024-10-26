@@ -1,5 +1,8 @@
 # Juego del Ahorcado en Consola - .NET
 
+![image](https://github.com/user-attachments/assets/e4f2f5ca-b5b1-40f6-a358-3fd451baf9f8)
+
+
 ![image](https://github.com/user-attachments/assets/f697b03b-c4a1-4900-a63f-26f2fb4ab7fa)
 
 Este proyecto implementa el clásico juego del Ahorcado utilizando C# en una aplicación de consola. 
